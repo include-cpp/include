@@ -11,3 +11,10 @@ I'm a software developer, not a politician, nor a diversity specialist or academ
 4. The appeal of software development, and the horizons of existing developers, must be broadened, such that ALL may be included in the talent pool and ALL may be included in the user domain.
 
 As you can see, it's a work in progress. All help welcomed by me and, ultimately, the rest of the discipline.
+
+## Other organisations
+
+* [CAS #include - computer science for all](http://www.computingatschool.org.uk/custom_pages/270-cas-include)
+
+
+      
