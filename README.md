@@ -14,7 +14,7 @@ As you can see, it's a work in progress. All help welcomed by me and, ultimately
 
 ## Other organisations
 
-* [http://www.computingatschool.org.uk/custom_pages/270-cas-include](CAS #include - computer science for all)
+* [CAS #include - computer science for all](http://www.computingatschool.org.uk/custom_pages/270-cas-include)
 
 
       
