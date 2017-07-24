@@ -15,6 +15,4 @@ As you can see, it's a work in progress. All help welcomed by me and, ultimately
 ## Other organisations
 
 * [CAS #include - computer science for all](http://www.computingatschool.org.uk/custom_pages/270-cas-include)
-
-
-      
+* [Women in HPC](https://www.womeninhpc.org/)
