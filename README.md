@@ -29,11 +29,16 @@ As you can see, it's a work in progress. All help welcomed by me and, ultimately
   * This is mostly focused on meetings rather than the many other forms of collaboration which we use.
   * If you are a manager then this is probably a better option than the Facebook one.
 * [Implicit social attitude tests -- Harvard](https://implicit.harvard.edu/implicit/)
-  * A collection of tests which can help you identify unconsious biases.
+  * A collection of tests which can help you identify unconscious biases.
   * Doing even one of these is very valuable, and the results can be surprising.
 
 ## Other organisations
 
 * [CAS #include - computer science for all](http://www.computingatschool.org.uk/custom_pages/270-cas-include)
+  * An organization focused on increasing diversity in computer science.
+  * Primarily focused on students.
 * [Women in HPC](https://www.womeninhpc.org/)
-* [Girl Developp It](https://www.girldevelopit.com/)
+  * Aims to educate and collaborate with the high-performance computing community.
+  * Provides knowledge, fellowship, and support to women and the organizations that employ them.
+* [Girl Develop It](https://www.girldevelopit.com/)
+  * Aims to provide affordable and judgement-free opportunities for women interested in learning web and software development.
