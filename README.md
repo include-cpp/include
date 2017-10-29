@@ -71,3 +71,29 @@ As you can see, it's a work in progress. All help welcomed by me and, ultimately
 * [Ada Developers Academy](https://adadevelopersacademy.org/)
   * Seattle-based tuition-free program (classes + paid internship) for women and gender diverse people who want to become software developers
 
+
+## Resources for community organizers
+
+### Meetup.com
+
+The [Meetup.com](https://www.meetup.com/) community guidelines, which apply for group members.
+
+* [Meetup community guidelines](https://www.meetup.com/help/customer/portal/articles/865536-meetup-s-community-guidelines/)
+
+### Code of Conducts for user gropus and conferences
+
+* [Berlin Code of Conduct](http://berlincodeofconduct.org/) - available in 6 languages, in use for C++ several groups and conferences.
+* [Citizen Code of Conduct](http://citizencodeofconduct.org/)
+
+
+### Code of Conduct for online communities
+
+There are various CoC for online communities available, for example the CppLang Slack Code of Conduct.
+
+* [CppLang Slack Code of Conduct](https://include-cpp.github.io/cpplang-code-of-conduct/)
+
+
+### Additional tips for community organizers
+
+* [Some ideas from @SalFreudenberg how to make a meetup more accessible for women](https://twitter.com/SalFreudenberg/status/921421125434986496)
+
