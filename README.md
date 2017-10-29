@@ -66,4 +66,8 @@ As you can see, it's a work in progress. All help welcomed by me and, ultimately
   * Runs events in aid of uniting the LGBTQ+ tech community.
 * [Lesbians who Tech](https://lesbianswhotech.org/)
   * A community of queer women and allies in or around tech.
+* [ChickTech](https://chicktech.org)
+  * Provides resources and community for women in technology, as well as K-12 programs for students
+* [Ada Developers Academy](https://adadevelopersacademy.org/)
+  * Seattle-based tuition-free program (classes + paid internship) for women and gender diverse people who want to become software developers
 
