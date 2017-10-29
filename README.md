@@ -68,19 +68,18 @@ As you can see, it's a work in progress. All help welcomed by me and, ultimately
   * A community of queer women and allies in or around tech.
 
 
-## Resources for community organizer
+## Resources for community organizers
 
-### Meetup
+### Meetup.com
 
-The Meetup community guidelines which apply for group members.
+The [Meetup.com](https://www.meetup.com/) community guidelines, which apply for group members.
 
 * [Meetup community guidelines](https://www.meetup.com/help/customer/portal/articles/865536-meetup-s-community-guidelines/)
 
-### Code of Conduct for user gropus and conferences
+### Code of Conducts for user gropus and conferences
 
-There are various CoC available but the Berlin Code of Conduct is available in 6 languages an in use for several groups and conferences.
-
-* [Berlin Code of Conduct](http://berlincodeofconduct.org/)
+* [Berlin Code of Conduct](http://berlincodeofconduct.org/) - available in 6 languages, in use for C++ several groups and conferences.
+* [Citizen Code of Conduct](http://citizencodeofconduct.org/)
 
 
 ### Code of Conduct for online communities
@@ -90,7 +89,7 @@ There are various CoC for online communities available, for example the CppLang 
 * [CppLang Slack Code of Conduct](https://include-cpp.github.io/cpplang-code-of-conduct/)
 
 
-### Additional tips for community organizer
+### Additional tips for community organizers
 
-* [Some ideas from @SalFreudenberg how to make a MeetUp more accessible for women](https://twitter.com/SalFreudenberg/status/921421125434986496)
+* [Some ideas from @SalFreudenberg how to make a meetup more accessible for women](https://twitter.com/SalFreudenberg/status/921421125434986496)
 
