@@ -91,7 +91,9 @@ As you can see, it's a work in progress. All help welcomed by me and, ultimately
 * [Code.org](https://code.org/)
   * A non-profit dedicated to expanding access to computer science and increasing participation by women and underrepresented minorities
   * Worldwide
-
+* [AnitaB.org](https://anitab.org/)
+  * A social enterprise that supports women in technical fields, as well as the organizations that employ them and the academic institutions training the next generation.`
+  * Worldwide
 
 ## Resources for community organizers
 
