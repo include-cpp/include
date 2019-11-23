@@ -103,7 +103,7 @@ The [Meetup.com](https://www.meetup.com/) community guidelines, which apply for 
 
 * [Meetup community guidelines](https://www.meetup.com/help/customer/portal/articles/865536-meetup-s-community-guidelines/)
 
-### Code of Conducts for user gropus and conferences
+### Codes of Conduct for user groups and conferences
 
 * [Berlin Code of Conduct](http://berlincodeofconduct.org/) - available in 6 languages, in use for C++ several groups and conferences.
 * [Citizen Code of Conduct](http://citizencodeofconduct.org/)
