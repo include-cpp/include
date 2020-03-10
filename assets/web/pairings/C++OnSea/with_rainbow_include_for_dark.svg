@@ -11,9 +11,9 @@
    inkscape:export-ydpi="96"
    inkscape:export-xdpi="96"
    inkscape:export-filename="/Users/richard/dev/github/softwarebear/include-cpp/assets/web/pairings/C++OnSea/with_rainbow_include_for_dark.png"
-   width="272px"
-   height="262px"
-   viewBox="0 0 272 262"
+   width="600"
+   height="400"
+   viewBox="0 0 600 400"
    version="1.1"
    id="svg47"
    sodipodi:docname="with_rainbow_include_for_dark.svg"
@@ -41,14 +41,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1440"
-     inkscape:window-height="874"
+     inkscape:window-height="900"
      id="namedview49"
      showgrid="false"
      inkscape:zoom="1.5554586"
-     inkscape:cx="199.32177"
-     inkscape:cy="170.65943"
+     inkscape:cx="241.73683"
+     inkscape:cy="204.69614"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg47" />
   <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
@@ -63,8 +63,8 @@
      id="rect71"
      width="600"
      height="400"
-     x="-42.415062"
-     y="-34.036713" />
+     x="0"
+     y="0" />
   <defs
      id="defs14">
     <linearGradient
@@ -151,7 +151,7 @@
     </linearGradient>
   </defs>
   <g
-     transform="matrix(0.85571071,0,0,0.85571071,4.1796677,51.651085)"
+     transform="matrix(0.85571071,0,0,0.85571071,46.59473,85.687798)"
      id="g1549">
     <g
        id="g592"
