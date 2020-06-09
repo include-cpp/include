@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="rainbow_hash_url.svg"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 56 56"
+   height="56mm"
+   width="56mm"
+   inkscape:export-filename="/Users/richard/dev/github/softwarebear/include-cpp/assets/stickers/rainbow_hash_url.png"
+   inkscape:export-xdpi="699.86072"
+   inkscape:export-ydpi="699.86072">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:window-height="855"
+     inkscape:window-width="1440"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="120.97381"
+     inkscape:cx="103.40657"
+     inkscape:zoom="1.9696003"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:snap-midpoints="true"
+     showguides="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-13.802135,-57.863579)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       transform="matrix(0.34227609,0,0,0.34227609,9.0779945,38.058259)"
+       id="g132">
+      <rect
+         style="fill:#000000;stroke-width:0.275799"
+         id="rect34"
+         width="163.61061"
+         height="163.61061"
+         x="13.802135"
+         y="57.863579" />
+      <g
+         id="g109"
+         transform="matrix(0.26458333,0,0,0.26458333,29.747993,70.736507)">
+        <g
+           id="g78">
+          <g
+             id="g76">
+            <linearGradient
+               gradientTransform="matrix(1,0,0,-1,0,-6379.4976)"
+               y2="-6846.1475"
+               x2="249.7"
+               y1="-6379.4976"
+               x1="249.7"
+               gradientUnits="userSpaceOnUse"
+               id="SVGID_1_">
+              <stop
+                 id="stop57"
+                 style="stop-color:#A7489A"
+                 offset="0" />
+              <stop
+                 id="stop59"
+                 style="stop-color:#734DA0"
+                 offset="0.1411" />
+              <stop
+                 id="stop61"
+                 style="stop-color:#43B8CA"
+                 offset="0.2871" />
+              <stop
+                 id="stop63"
+                 style="stop-color:#1294AE"
+                 offset="0.3861" />
+              <stop
+                 id="stop65"
+                 style="stop-color:#6A9B40"
+                 offset="0.521" />
+              <stop
+                 id="stop67"
+                 style="stop-color:#E5DC1D"
+                 offset="0.6061" />
+              <stop
+                 id="stop69"
+                 style="stop-color:#E79525"
+                 offset="0.7833" />
+              <stop
+                 id="stop71"
+                 style="stop-color:#D83E3E"
+                 offset="0.9541" />
+            </linearGradient>
+            <path
+               id="path74"
+               d="m 486.6,184.3 13.1,-74.5 H 421.1 L 465.7,0 H 386.3 L 341.7,109.7 H 261.2 L 305.8,0 H 226.5 L 181.9,109.7 H 73.1 L 60,184.3 h 91.7 l -40,98.5 H 12.8 L -0.3,357.3 H 81.4 L 37,466.7 h 79.3 l 44.4,-109.3 h 80.5 l -44.4,109.3 h 79.3 l 44.4,-109.3 h 105.8 l 13.1,-74.5 h -88.5 l 40,-98.5 z M 271.5,282.7 H 191 l 40,-98.5 h 80.5 z"
+               class="st0"
+               inkscape:connector-curvature="0"
+               style="fill:url(#SVGID_1_)" />
+          </g>
+        </g>
+        <text
+           id="text80"
+           class="st1 st2 st3 st4"
+           transform="matrix(1.0453,0,0,1,0.03359222,516.2488)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code'">https://www.includecpp.org</text>
+        <rect
+           id="rect82"
+           height="42"
+           width="32.099998"
+           class="st5"
+           transform="matrix(0.00274334,-1,1,0.00274334,-396.3327,567.9485)"
+           y="461.70001"
+           x="70.599998" />
+        <rect
+           id="rect84"
+           height="33"
+           width="42"
+           class="st5"
+           y="466.5"
+           x="65.599998" />
+      </g>
+    </g>
+  </g>
+  <style
+     type="text/css"
+     id="style10">
+	.st0{fill:url(#SVGID_1_);}
+</style>
+  <style
+     type="text/css"
+     id="style55">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#FFFFFF;}
+	.st2{font-family:'FiraCode-Medium';}
+	.st3{font-size:29px;}
+	.st4{letter-spacing:1;}
+	.st5{fill:none;}
+</style>
+</svg>
