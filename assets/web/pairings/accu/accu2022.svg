@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="83.593803mm"
+   height="26.17631mm"
+   viewBox="0 0 83.593803 26.17631"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="solid_black_rainbow_nourl_accu2022.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.9334269"
+     inkscape:cx="277.74518"
+     inkscape:cy="252.91879"
+     inkscape:window-width="2219"
+     inkscape:window-height="1358"
+     inkscape:window-x="680"
+     inkscape:window-y="212"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="192.03049"
+       y="257.60187"
+       width="206.0815"
+       height="112.40809"
+       id="rect4050" />
+    <rect
+       x="95.234634"
+       y="163.92847"
+       width="532.3772"
+       height="256.04065"
+       id="rect1464" />
+    <rect
+       x="192.03049"
+       y="257.60187"
+       width="206.0815"
+       height="112.40809"
+       id="rect4050-8" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1.8915274,-4.5079461)">
+    <g
+       id="g20764"
+       transform="matrix(1.1229007,0,0,1.1229007,-53.917134,-89.943323)"
+       inkscape:export-filename="/Users/richard/dev/github/include-cpp/include/assets/web/pairings/accu/accu2022.2.png"
+       inkscape:export-xdpi="91.160004"
+       inkscape:export-ydpi="91.160004">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.39927972,0,0,0.43190385,-26.981896,-35.526803)"
+         id="text4048"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Aggie Normal';-inkscape-font-specification:'Aggie Normal, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect4050);fill:#a901f7;fill-opacity:1;stroke:none;stroke-width:0.999289;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+           x="192.03125"
+           y="299.40715"
+           id="tspan861"><tspan
+   style="font-size:46.6667px"
+   id="tspan859">accu</tspan>
+</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.40698552,0,0,0.41571568,-29.658173,-14.560513)"
+         id="text4048-1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Aggie Normal';-inkscape-font-specification:'Aggie Normal, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect4050-8);fill:#a901f7;fill-opacity:1;stroke:none"><tspan
+           x="192.03125"
+           y="293.4349"
+           id="tspan863">2022</tspan></text>
+    </g>
+  </g>
+</svg>
