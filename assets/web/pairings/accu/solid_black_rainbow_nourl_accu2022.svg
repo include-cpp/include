@@ -2,13 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="184.12874mm"
-   height="52.568317mm"
-   viewBox="0 0 184.12874 52.568318"
+   width="234.49541mm"
+   height="107.5516mm"
+   viewBox="0 0 234.49541 107.5516"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
    sodipodi:docname="solid_black_rainbow_nourl_accu2022.svg"
+   inkscape:export-filename="/Users/richard/dev/github/softwarebear/include-cpp/assets/web/pairings/accu/rainbow_accu2022_4000x2062.png"
+   inkscape:export-xdpi="487.03"
+   inkscape:export-ydpi="487.03"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,32 +27,22 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.144904"
-     inkscape:cx="363.34924"
-     inkscape:cy="431.47722"
+     inkscape:cx="416.62882"
+     inkscape:cy="77.735775"
      inkscape:window-width="2219"
      inkscape:window-height="1358"
-     inkscape:window-x="680"
-     inkscape:window-y="184"
+     inkscape:window-x="769"
+     inkscape:window-y="141"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
      id="defs2">
-    <pattern
-       inkscape:collect="always"
-       patternUnits="userSpaceOnUse"
-       width="2"
-       height="1"
-       patternTransform="translate(0,0) scale(10,10)"
-       id="Strips1_1"
-       inkscape:stockid="Stripes 1:1">
-      <rect
-         style="fill:black;stroke:none"
-         x="0"
-         y="-0.5"
-         width="1"
-         height="2"
-         id="rect2037" />
-    </pattern>
+    <rect
+       x="40.17804"
+       y="331.03214"
+       width="528.42859"
+       height="57.646755"
+       id="rect4940" />
     <rect
        x="192.03049"
        y="257.60187"
@@ -68,18 +61,62 @@
        width="206.0815"
        height="112.40809"
        id="rect4050-8" />
+    <font
+       horiz-adv-x="1024"
+       id="font7266"
+       inkscape:label="font 1"
+       horiz-origin-x="0"
+       horiz-origin-y="0"
+       vert-origin-x="512"
+       vert-origin-y="768"
+       vert-adv-y="1024">
+      <font-face
+         units-per-em="1024"
+         id="font-face7268"
+         font-family="SVGFont 1" />
+      <missing-glyph
+         d="M0,0h1000v1024h-1000z"
+         id="missing-glyph7270" />
+    </font>
+    <font
+       horiz-adv-x="1024"
+       id="font7272"
+       inkscape:label="font 2"
+       horiz-origin-x="0"
+       horiz-origin-y="0"
+       vert-origin-x="512"
+       vert-origin-y="768"
+       vert-adv-y="1024">
+      <font-face
+         units-per-em="1024"
+         id="font-face7274"
+         font-family="SVGFont 2" />
+      <missing-glyph
+         d="M0,0h1000v1024h-1000z"
+         id="missing-glyph7276" />
+    </font>
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(21.577276,-0.34385016)">
+     transform="translate(45.669197,13.657247)">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;paint-order:fill markers stroke"
+       id="rect936"
+       width="234.49541"
+       height="134.82098"
+       x="-45.669197"
+       y="-27.291941"
+       inkscape:export-filename="/Users/richard/dev/github/softwarebear/include-cpp/assets/web/pairings/accu/rainbow_accu2022_gofundme.png"
+       inkscape:export-xdpi="487.03"
+       inkscape:export-ydpi="487.03" />
     <g
        id="g20764"
        transform="matrix(1.7883432,0,0,1.7883432,-69.747223,-114.3045)"
-       inkscape:export-filename="/Users/richard/dev/github/include-cpp/include/assets/web/pairings/accu/accu2022.2.png"
-       inkscape:export-xdpi="91.160004"
-       inkscape:export-ydpi="91.160004">
+       inkscape:export-filename="/Users/richard/dev/github/softwarebear/include-cpp/assets/web/pairings/accu/rainbow_accu2022_4000x2062.png"
+       inkscape:export-xdpi="487.03"
+       inkscape:export-ydpi="487.03">
       <g
          id="g1171"
          transform="matrix(0.73634947,0,0,0.73634947,37.693102,14.964823)">
@@ -90,9 +127,9 @@
            style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Aggie Normal';-inkscape-font-specification:'Aggie Normal, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect4050);fill:#a901f7;fill-opacity:1;stroke:none;stroke-width:0.999289;stroke-miterlimit:4;stroke-dasharray:none"><tspan
              x="192.03125"
              y="299.40715"
-             id="tspan3052"><tspan
+             id="tspan4341"><tspan
    style="font-size:46.6667px"
-   id="tspan3050">accu</tspan>
+   id="tspan4339">accu</tspan>
 </tspan></text>
         <text
            xml:space="preserve"
@@ -101,12 +138,15 @@
            style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Aggie Normal';-inkscape-font-specification:'Aggie Normal, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect4050-8);fill:#a901f7;fill-opacity:1;stroke:none"><tspan
              x="192.03125"
              y="293.4349"
-             id="tspan3054">2022</tspan></text>
+             id="tspan4343">2022</tspan></text>
       </g>
     </g>
     <g
        id="g1164"
-       transform="matrix(2.2627975,-0.65378056,0.65378056,2.2627975,-111.75902,-113.92354)">
+       transform="matrix(2.2627975,-0.65378056,0.65378056,2.2627975,-111.75902,-113.92354)"
+       inkscape:export-filename="/Users/richard/dev/github/softwarebear/include-cpp/assets/web/pairings/accu/rainbow_accu2022_4000x2062.png"
+       inkscape:export-xdpi="487.03"
+       inkscape:export-ydpi="487.03">
       <g
          id="text899"
          transform="matrix(0.26458333,0,0,0.26458333,15.739754,68.540685)">
@@ -181,12 +221,19 @@
            id="path915" />
       </g>
     </g>
-    <rect
-       style="opacity:0.003;fill:url(#Strips1_1);stroke:#cf0039;stroke-width:1.17819;paint-order:fill markers stroke;fill-opacity:1.0"
-       id="rect933"
-       width="197.72363"
-       height="77.553436"
-       x="-44.408333"
-       y="62.09412" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-6.8449804,-17.585888)"
+       id="text4938"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4940);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="40.177734"
+         y="367.52446"
+         id="tspan4351"><tspan
+   style="font-weight:500;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Medium'"
+   id="tspan4345">diversity</tspan><tspan
+   style="fill:#ececec"
+   id="tspan4347"> </tspan><tspan
+   style="font-weight:500;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Medium'"
+   id="tspan4349">scholarships</tspan> </tspan></text>
   </g>
 </svg>
